@@ -1,0 +1,3 @@
+[submodule "externals/mono-assembly-injector"]
+	path = externals/mono-assembly-injector
+	url = https://github.com/gamebooster/mono-assembly-injector.git
